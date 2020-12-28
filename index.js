@@ -1,4 +1,4 @@
 
 function myFunction() {
-  alert("Hello! I am Prince!");
+  alert("Hello! I am Prince Kumar!");
 }
